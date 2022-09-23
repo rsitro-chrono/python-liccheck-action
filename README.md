@@ -1,0 +1,1 @@
+# python-liccheck-action
